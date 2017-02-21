@@ -1,0 +1,2 @@
+C:\Users\dbaker\Documents\IntoToObjects\IntoToObjects\bin\Debug\IntoToObjects.exe.config
+H:\oop\IntoToObjects\IntoToObjects\bin\Debug\IntoToObjects.exe.config
